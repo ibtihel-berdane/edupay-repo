@@ -86,6 +86,7 @@ config/database.php
 6. Open your browser and visit:
 
 ```
+http://localhost/edupay+/login.php
 ```
 
 ## Main Modules
