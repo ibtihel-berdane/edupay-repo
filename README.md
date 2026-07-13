@@ -1,4 +1,4 @@
-# Student Tuition Management System
+# Student Tuition Management System  EduPay+
 
 A web application developed to simplify the management of student financial operations within educational institutions. The platform centralizes tuition fee tracking, online payment management, and scholarship (stipend) administration in a secure and user-friendly interface.
 
