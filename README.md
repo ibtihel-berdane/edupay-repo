@@ -41,8 +41,7 @@ The main objective of this application is to digitize and automate student finan
 - XAMPP
 - phpMyAdmin
 - Visual Studio Code
-- Git & GitHub
-
+  
 ## Project Structure
 
 ```
